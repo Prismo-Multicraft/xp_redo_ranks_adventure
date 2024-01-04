@@ -1,0 +1,3 @@
+This mod is adaption of following mod (https://github.com/mt-mods/xp_redo_ranks_ores/tree/master)
+and licenses to all content(textures) used directly without modification supercedes BSD3 license
+of this repo.
